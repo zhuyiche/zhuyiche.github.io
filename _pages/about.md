@@ -17,19 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Researcher at Midea Group, AI Lab. My research interests primarily lie in the areas of model compression, multi-modal, and robotics.
+I am a Researcher at [Midea Group](https://www.midea.com.cn/), AI Lab. My research interests primarily lie in the areas of model compression, multi-modal, and robotics.
 
-I obtained my bachelor of science from the University of Toronto in 2020, majored in Statistics. 
+I obtained my bachelor of science from the [University of Toronto](https://www.utoronto.ca/) in 2020, majored in Statistics. 
 
 
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 Two papers about MLLM + Robotics have been accepted in ICRA 2024
 - *2024.01*: We release a efficient multi-modal models called [LLaVA-Phi](https://github.com/zhuyiche/llava-phi), building upon Phi-2 and LLaVA.
-- *2024.01*: &nbsp;🎉🎉 Two papers accepted in AAAI 2024
-- *2023.12*: &nbsp;🎉🎉 One paper accepted in ICASSP 2024
-- *2023.08*: &nbsp;🎉🎉 One paper accepted in ECML/PKDD 2024
-- *2023.06*: &nbsp;🎉🎉 Glad to annouce that our paper [LogAnomaly](https://www.ijcai.org/proceedings/2019/0658.pdf) is now the 10th most cited paper in IJCAI2019
+- *2024.01*: Two papers accepted in AAAI 2024
+- *2023.12*: One paper accepted in ICASSP 2024
+- *2023.08*: One paper accepted in ECML/PKDD 2024
+- *2023.06*: Glad to annouce that our paper [LogAnomaly](https://www.ijcai.org/proceedings/2019/0658.pdf) is now the 10th most cited paper in IJCAI2019
 
 # 📝 Selected Publications 
 &dagger; Equal Contributions, &Dagger; Corresponding Author
