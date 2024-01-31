@@ -29,6 +29,7 @@ I obtained my bachelor of science from the University of Toronto in 2020, majore
 - *2024.01*: &nbsp;🎉🎉 Two papers accepted in AAAI 2024
 - *2023.12*: &nbsp;🎉🎉 One paper accepted in ICASSP 2024
 - *2023.08*: &nbsp;🎉🎉 One paper accepted in ECML/PKDD 2024
+- *2023.06*: &nbsp;🎉🎉 Glad to annouce that our paper [LogAnomaly](https://www.ijcai.org/proceedings/2019/0658.pdf) is now the 10th most cited paper in IJCAI2019
 
 # 📝 Selected Publications 
 &dagger; Equal Contributions, &Dagger; Corresponding Author
