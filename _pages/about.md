@@ -36,15 +36,15 @@ I obtained my bachelor of science from the University of Toronto in 2020, majore
 
 Minjie Zhu&dagger, **Yichen Zhu**&dagger, Jinming Li, Junjie Wen, Zhiyuan Xu, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
 
-[**ICRA 2024**Object-Centric Instruction Augmentation for Robotic Manipulation](https://arxiv.org/pdf/2401.04181.pdf)
+[**ICRA 2024** Object-Centric Instruction Augmentation for Robotic Manipulation](https://arxiv.org/pdf/2401.04181.pdf)
 
 Junjie Wen&dagger, **Yichen Zhu**&dagger, Minjie Zhu, Jinming Li, Zhiyuan Xu, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
 
-[**AAAI 2024**Exploring Gradient Explosion in Generative Adversarial Imitation Learning: A Probabilistic Perspective](https://arxiv.org/pdf/2312.11214)
+[**AAAI 2024** Exploring Gradient Explosion in Generative Adversarial Imitation Learning: A Probabilistic Perspective](https://arxiv.org/pdf/2312.11214)
 
 Wanying Wang&dagger, **Yichen Zhu**&dagger, Yirui Zhou, Chaomin Shen, Jian Tang, Zhiyuan Xu, Yaxin Peng, Yangchun Zhang
 
-[**AAAI 2024**Early Pruning with Self-Distillation for Efficient Model Compression]
+[**AAAI 2024** Early Pruning with Self-Distillation for Efficient Model Compression]
 
 Chen Dong&dagger, Ning Liu&dagger, **Yichen Zhu**, Fachao Zhang, Dong Liu, Feifei Feng, Jian Tang
 
