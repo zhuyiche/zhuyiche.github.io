@@ -56,10 +56,10 @@ Wanying Wang&dagger, **Yichen Zhu**&dagger, Yirui Zhou, Chaomin Shen, Jian Tang,
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-	
+
 [Early Pruning with Self-Distillation for Efficient Model Compression, **AAAI 2024**]
 
-Chen Dong&dagger, Ning Liu&dagger, **Yichen Zhu**, Fachao Zhang, Dong Liu, Feifei Feng, Jian Tang
+Chen Dong\dagger, Ning Liu\dagger, **Yichen Zhu**, Fachao Zhang, Dong Liu, Feifei Feng, Jian Tang
 
 
 
