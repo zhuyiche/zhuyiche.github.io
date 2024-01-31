@@ -24,7 +24,10 @@ I obtained my bachelor of science from the University of Toronto in 2020, majore
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 
+- *2024.02*: &nbsp;🎉🎉 Two Papers Accepted in ICRA 2024
+- *2024.01*: &nbsp;🎉🎉 Two Papers Accepted in AAAI 2024
+- *2023.12*: &nbsp;🎉🎉 One Papers Accepted in ICASSP 2024
+- *2023.08*: &nbsp;🎉🎉 One Papers Accepted in ECML/PKDD 2024
 
 # 📝 Selected Publications 
 &dagger Equal Contributions, &Dagger Corresponding Author
@@ -71,7 +74,7 @@ Qiqi Zhou, **Yichen Zhu**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Make a Long Image Short: Adaptive Token Length for Vision Transformers, **ECMl PKDD 2023**](https://arxiv.org/pdf/2307.02092.pdf)
+[Make a Long Image Short: Adaptive Token Length for Vision Transformers, **ECMl/PKDD 2023**](https://arxiv.org/pdf/2307.02092.pdf)
 
 Qiqi Zhou, **Yichen Zhu**
 
