@@ -25,7 +25,7 @@ I obtained my bachelor of science from the University of Toronto in 2020, majore
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 Two papers about MLLM + Robotics have been accepted in ICRA 2024
-- *2024.01*: We release a efficient multi-modal models called LLaVA-Phi, building upon Phi-2 and LLaVA.
+- *2024.01*: We release a efficient multi-modal models called [LLaVA-Phi](https://github.com/zhuyiche/llava-phi), building upon Phi-2 and LLaVA.
 - *2024.01*: &nbsp;🎉🎉 Two papers accepted in AAAI 2024
 - *2023.12*: &nbsp;🎉🎉 One paper accepted in ICASSP 2024
 - *2023.08*: &nbsp;🎉🎉 One paper accepted in ECML/PKDD 2024
