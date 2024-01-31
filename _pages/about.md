@@ -33,7 +33,7 @@ I obtained my bachelor of science from the University of Toronto in 2020, majore
 # 📝 Selected Publications 
 * Equal Contributions, &Dagger Corresponding Author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/icra_rsft.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/icra_rsft.png' alt="sym" width="300" height="500"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Language-Conditioned Robotic Manipulation with Fast and Slow Thinking, **ICRA 2024**](https://arxiv.org/pdf/2401.04181.pdf)
@@ -54,7 +54,7 @@ Junjie Wen&dagger, **Yichen Zhu**&dagger, Minjie Zhu, Jinming Li, Zhiyuan Xu, Ch
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai_gail.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai_gail.png' alt="sym" width="300" height="500"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
