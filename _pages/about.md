@@ -25,6 +25,7 @@ I obtained my bachelor of science from the University of Toronto in 2020, majore
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 Two Papers Accepted in ICRA 2024
+- *2024.01*: We release a efficient multi-modal models called LLaVA-Phi, building upon Phi-2 and LLaVA.
 - *2024.01*: &nbsp;🎉🎉 Two Papers Accepted in AAAI 2024
 - *2023.12*: &nbsp;🎉🎉 One Papers Accepted in ICASSP 2024
 - *2023.08*: &nbsp;🎉🎉 One Papers Accepted in ECML/PKDD 2024
@@ -61,6 +62,8 @@ Junjie Wen&dagger, **Yichen Zhu**&dagger, Minjie Zhu, Jinming Li, Zhiyuan Xu, Ch
 
 Wanying Wang&dagger, **Yichen Zhu**&dagger, Yirui Zhou, Chaomin Shen, Jian Tang, Zhiyuan Xu, Yaxin Peng, Yangchun Zhang
 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -69,12 +72,18 @@ Wanying Wang&dagger, **Yichen Zhu**&dagger, Yirui Zhou, Chaomin Shen, Jian Tang,
 
 Chen Dong\dagger, Ning Liu\dagger, **Yichen Zhu**, Fachao Zhang, Dong Liu, Feifei Feng, Jian Tang
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [When Training-Free NAS meets Vision Transformer: A Neural Tangent Kernel Perspective, **ICASSP 2024**]
 
 Qiqi Zhou, **Yichen Zhu**
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,12 +92,18 @@ Qiqi Zhou, **Yichen Zhu**
 
 Qiqi Zhou, **Yichen Zhu**
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ScaleKD: Distilling Scale-Aware Knowledge in Small Object Detector, **CVPR 2023**](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_ScaleKD_Distilling_Scale-Aware_Knowledge_in_Small_Object_Detector_CVPR_2023_paper.pdf)
 
 **Yichen Zhu**, Qiqi Zhou, Ning Liu, Zhiyuan Xu, Zhicai Ou, Xiaofeng Mou, Jian Tang
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -97,12 +112,18 @@ Qiqi Zhou, **Yichen Zhu**
 
 **Yichen Zhu**, Ning Liu, Zhiyuan Xu, Xin Liu, Weibin Meng, Louis Wang, Zhicai Ou, Jian Tang
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Label-guided auxiliary training improves 3d object detector, **ECCV 2022**](https://arxiv.org/pdf/2207.11753)
 
 Yaomin Huang, Xinmei Liu, **Yichen Zhu**, Zhiyuan Xu, Chaomin Shen, Zhengping Che, Guixu Zhang, Yaxin Peng, Feifei Feng, Jian Tang
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
