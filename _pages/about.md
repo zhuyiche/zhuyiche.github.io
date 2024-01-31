@@ -30,15 +30,17 @@ I obtained my bachelor of science from the University of Toronto in 2020, majore
 - *2023.08*: &nbsp;🎉🎉 One Papers Accepted in ECML/PKDD 2024
 
 # 📝 Selected Publications 
-&dagger Equal Contributions, &Dagger Corresponding Author
+* Equal Contributions, &Dagger Corresponding Author
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Language-Conditioned Robotic Manipulation with Fast and Slow Thinking, **ICRA 2024**](https://arxiv.org/pdf/2401.04181.pdf)
 
-Minjie Zhu&dagger, **Yichen Zhu**&dagger, Jinming Li, Junjie Wen, Zhiyuan Xu, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
+Minjie Zhu*, **Yichen Zhu***, Jinming Li, Junjie Wen, Zhiyuan Xu, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,6 +49,9 @@ Minjie Zhu&dagger, **Yichen Zhu**&dagger, Jinming Li, Junjie Wen, Zhiyuan Xu, Ch
 
 Junjie Wen&dagger, **Yichen Zhu**&dagger, Minjie Zhu, Jinming Li, Zhiyuan Xu, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
 
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
