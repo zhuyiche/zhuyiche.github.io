@@ -31,71 +31,71 @@ I obtained my bachelor of science from the University of Toronto in 2020, majore
 - *2023.08*: &nbsp;🎉🎉 One paper accepted in ECML/PKDD 2024
 
 # 📝 Selected Publications 
-* Equal Contributions, &Dagger Corresponding Author
+&dagger; Equal Contributions, &Dagger; Corresponding Author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/icra_rsft.png' alt="sym" width="300" height="500"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/icra_rsft.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Language-Conditioned Robotic Manipulation with Fast and Slow Thinking, **ICRA 2024**](https://arxiv.org/pdf/2401.04181.pdf)
 
-Minjie Zhu*, **Yichen Zhu***, Jinming Li, Junjie Wen, Zhiyuan Xu, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
+Minjie Zhu&dagger;, **Yichen Zhu**&dagger;, Jinming Li, Junjie Wen, Zhiyuan Xu, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/icra_oci.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/icra_oci.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Object-Centric Instruction Augmentation for Robotic Manipulation, **ICRA 2024**](https://arxiv.org/pdf/2401.04181.pdf)
 
-Junjie Wen&dagger, **Yichen Zhu**&dagger, Minjie Zhu, Jinming Li, Zhiyuan Xu, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
+Junjie Wen&dagger;, **Yichen Zhu**&dagger;, Minjie Zhu, Jinming Li, Zhiyuan Xu, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
 
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai_gail.png' alt="sym" width="300" height="500"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai_gail.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
 [Exploring Gradient Explosion in Generative Adversarial Imitation Learning: A Probabilistic Perspective, **AAAI 2024**](https://arxiv.org/pdf/2312.11214)
 
-Wanying Wang&dagger, **Yichen Zhu**&dagger, Yirui Zhou, Chaomin Shen, Jian Tang, Zhiyuan Xu, Yaxin Peng, Yangchun Zhang
+Wanying Wang&dagger;, **Yichen Zhu**&dagger;, Yirui Zhou, Chaomin Shen, Jian Tang, Zhiyuan Xu, Yaxin Peng, Yangchun Zhang
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/500x300.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Early Pruning with Self-Distillation for Efficient Model Compression, **AAAI 2024**]
 
-Chen Dong\dagger, Ning Liu\dagger, **Yichen Zhu**, Fachao Zhang, Dong Liu, Feifei Feng, Jian Tang
+Chen Dong&dagger;, Ning Liu&dagger;, **Yichen Zhu**, Fachao Zhang, Dong Liu, Feifei Feng, Jian Tang
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images/icassp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images/icassp.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [When Training-Free NAS meets Vision Transformer: A Neural Tangent Kernel Perspective, **ICASSP 2024**]
 
-Qiqi Zhou, **Yichen Zhu**
+Qiqi Zhou, **Yichen Zhu**&Dagger;
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML/PKDD 2023</div><img src='images/ecml.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECML/PKDD 2023</div><img src='images/ecml.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Make a Long Image Short: Adaptive Token Length for Vision Transformers, **ECMl/PKDD 2023**](https://arxiv.org/pdf/2307.02092.pdf)
 
-Qiqi Zhou, **Yichen Zhu**
+Qiqi Zhou, **Yichen Zhu**&Dagger;
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/scalekd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/scalekd.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ScaleKD: Distilling Scale-Aware Knowledge in Small Object Detector, **CVPR 2023**](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_ScaleKD_Distilling_Scale-Aware_Knowledge_in_Small_Object_Detector_CVPR_2023_paper.pdf)
@@ -105,7 +105,7 @@ Qiqi Zhou, **Yichen Zhu**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/tllm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/tllm.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Teach Less, Learn More: On the Undistillable Classes in Knowledge Distillation, **NeurIPS 2023, Spotlight (top 2%)**](https://proceedings.neurips.cc/paper_files/paper/2022/file/cf5c369c1bc070361477008e3f5210ed-Paper-Conference.pdf)
@@ -115,17 +115,17 @@ Qiqi Zhou, **Yichen Zhu**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/lg3d.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/lg3d.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Label-guided auxiliary training improves 3d object detector, **ECCV 2022**](https://arxiv.org/pdf/2207.11753)
 
-Yaomin Huang, Xinmei Liu, **Yichen Zhu**, Zhiyuan Xu, Chaomin Shen, Zhengping Che, Guixu Zhang, Yaxin Peng, Feifei Feng, Jian Tang
+Yaomin Huang&dagger;, Xinmei Liu&dagger;, **Yichen Zhu**, Zhiyuan Xu, Chaomin Shen, Zhengping Che, Guixu Zhang, Yaxin Peng, Feifei Feng, Jian Tang
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/sckd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/sckd.png' alt="sym" width="500" height="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Student customized knowledge distillation: Bridging the gap between student and teacher, **ICCV 2021, Oral (top 3%)**](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Student_Customized_Knowledge_Distillation_Bridging_the_Gap_Between_Student_and_ICCV_2021_paper.pdf)
