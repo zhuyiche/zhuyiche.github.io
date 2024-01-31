@@ -27,13 +27,14 @@ I obtained my bachelor of science from the University of Toronto in 2020, majore
 - *2022.02*: &nbsp;🎉🎉 
 
 # 📝 Publications 
+&dagger Equal Contributions
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Language-Conditioned Robotic Manipulation with Fast and Slow Thinking](https://arxiv.org/pdf/2401.04181.pdf)
 
-Minjie Zhu, **Yichen Zhu**, Jinming Li, Junjie Wen, Zhiyuan Xu, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
+Minjie Zhu&dagger, **Yichen Zhu**&dagger, Jinming Li, Junjie Wen, Zhiyuan Xu, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
