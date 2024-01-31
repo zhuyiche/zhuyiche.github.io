@@ -26,7 +26,7 @@ I obtained my bachelor of science from the University of Toronto in 2020, majore
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 &dagger Equal Contributions, &Dagger Corresponding Author
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -61,7 +61,47 @@ Wanying Wang&dagger, **Yichen Zhu**&dagger, Yirui Zhou, Chaomin Shen, Jian Tang,
 
 Chen Dong\dagger, Ning Liu\dagger, **Yichen Zhu**, Fachao Zhang, Dong Liu, Feifei Feng, Jian Tang
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[When Training-Free NAS meets Vision Transformer: A Neural Tangent Kernel Perspective, **ICASSP 2024**]
+
+Qiqi Zhou, **Yichen Zhu**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Make a Long Image Short: Adaptive Token Length for Vision Transformers, **ECMl PKDD 2023**](https://arxiv.org/pdf/2307.02092.pdf)
+
+Qiqi Zhou, **Yichen Zhu**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ScaleKD: Distilling Scale-Aware Knowledge in Small Object Detector, **CVPR 2023**](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_ScaleKD_Distilling_Scale-Aware_Knowledge_in_Small_Object_Detector_CVPR_2023_paper.pdf)
+
+**Yichen Zhu**, Qiqi Zhou, Ning Liu, Zhiyuan Xu, Zhicai Ou, Xiaofeng Mou, Jian Tang
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Teach Less, Learn More: On the Undistillable Classes in Knowledge Distillation, **NeurIPS 2023, Spotlight (top 2%)**](https://proceedings.neurips.cc/paper_files/paper/2022/file/cf5c369c1bc070361477008e3f5210ed-Paper-Conference.pdf)
+
+**Yichen Zhu**, Ning Liu, Zhiyuan Xu, Xin Liu, Weibin Meng, Louis Wang, Zhicai Ou, Jian Tang
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Label-guided auxiliary training improves 3d object detector, **ECCV 2022**](https://arxiv.org/pdf/2207.11753)
+
+Yaomin Huang, Xinmei Liu, **Yichen Zhu**, Zhiyuan Xu, Chaomin Shen, Zhengping Che, Guixu Zhang, Yaxin Peng, Feifei Feng, Jian Tang
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Student customized knowledge distillation: Bridging the gap between student and teacher, **ICCV 2021, Oral (top 3%)**](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Student_Customized_Knowledge_Distillation_Bridging_the_Gap_Between_Student_and_ICCV_2021_paper.pdf)
+
+**Yichen Zhu**, Yi Wang
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
