@@ -27,14 +27,28 @@ I obtained my bachelor of science from the University of Toronto in 2020, majore
 - *2022.02*: &nbsp;🎉🎉 
 
 # 📝 Publications 
-&dagger Equal Contributions
+&dagger Equal Contributions, &Dagger Corresponding Author
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Language-Conditioned Robotic Manipulation with Fast and Slow Thinking](https://arxiv.org/pdf/2401.04181.pdf)
+[**ICRA 2024** Language-Conditioned Robotic Manipulation with Fast and Slow Thinking](https://arxiv.org/pdf/2401.04181.pdf)
 
 Minjie Zhu&dagger, **Yichen Zhu**&dagger, Jinming Li, Junjie Wen, Zhiyuan Xu, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
+
+[**ICRA 2024**Object-Centric Instruction Augmentation for Robotic Manipulation](https://arxiv.org/pdf/2401.04181.pdf)
+
+Junjie Wen&dagger, **Yichen Zhu**&dagger, Minjie Zhu, Jinming Li, Zhiyuan Xu, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
+
+[**AAAI 2024**Exploring Gradient Explosion in Generative Adversarial Imitation Learning: A Probabilistic Perspective](https://arxiv.org/pdf/2312.11214)
+
+Wanying Wang&dagger, **Yichen Zhu**&dagger, Yirui Zhou, Chaomin Shen, Jian Tang, Zhiyuan Xu, Yaxin Peng, Yangchun Zhang
+
+[**AAAI 2024**Early Pruning with Self-Distillation for Efficient Model Compression]
+
+Chen Dong&dagger, Ning Liu&dagger, **Yichen Zhu**, Fachao Zhang, Dong Liu, Feifei Feng, Jian Tang
+
+
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
