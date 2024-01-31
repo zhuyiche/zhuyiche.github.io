@@ -32,19 +32,32 @@ I obtained my bachelor of science from the University of Toronto in 2020, majore
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ICRA 2024** Language-Conditioned Robotic Manipulation with Fast and Slow Thinking](https://arxiv.org/pdf/2401.04181.pdf)
+[Language-Conditioned Robotic Manipulation with Fast and Slow Thinking, **ICRA 2024**](https://arxiv.org/pdf/2401.04181.pdf)
 
 Minjie Zhu&dagger, **Yichen Zhu**&dagger, Jinming Li, Junjie Wen, Zhiyuan Xu, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
 
-[**ICRA 2024** Object-Centric Instruction Augmentation for Robotic Manipulation](https://arxiv.org/pdf/2401.04181.pdf)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Object-Centric Instruction Augmentation for Robotic Manipulation, **ICRA 2024**](https://arxiv.org/pdf/2401.04181.pdf)
 
 Junjie Wen&dagger, **Yichen Zhu**&dagger, Minjie Zhu, Jinming Li, Zhiyuan Xu, Chaomin Shen, Yaxin Peng, Dong Liu, Feifei Feng, Jian Tang
 
-[**AAAI 2024** Exploring Gradient Explosion in Generative Adversarial Imitation Learning: A Probabilistic Perspective](https://arxiv.org/pdf/2312.11214)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[Exploring Gradient Explosion in Generative Adversarial Imitation Learning: A Probabilistic Perspective, **AAAI 2024**](https://arxiv.org/pdf/2312.11214)
 
 Wanying Wang&dagger, **Yichen Zhu**&dagger, Yirui Zhou, Chaomin Shen, Jian Tang, Zhiyuan Xu, Yaxin Peng, Yangchun Zhang
 
-[**AAAI 2024** Early Pruning with Self-Distillation for Efficient Model Compression]
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+	
+[Early Pruning with Self-Distillation for Efficient Model Compression, **AAAI 2024**]
 
 Chen Dong&dagger, Ning Liu&dagger, **Yichen Zhu**, Fachao Zhang, Dong Liu, Feifei Feng, Jian Tang
 
