@@ -55,7 +55,7 @@ Junjie Wen&dagger;, **Yichen Zhu**&dagger;, Minjie Zhu, Jinming Li, Zhiyuan Xu, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/aaai_gail.png' alt="sym" width="300" height="150"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024, <span style="color:blue">Oral</span> </div><img src='images/aaai_gail.png' alt="sym" width="300" height="150"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
