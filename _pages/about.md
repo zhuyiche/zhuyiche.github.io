@@ -44,6 +44,22 @@ I obtained my bachelor of science from the [University of Toronto](https://www.u
 
 ***The very first efficient multi-modal large language model under 3B.***
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Jan 2024</div><img src='images/query-rele.png' alt="sym" width="300" height="150"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Query-Relevant Images Jailbreak Large Multi-Modal Models, **Arxiv 2024**](https://arxiv.org/pdf/2311.17600.pdf)
+
+Xin Liu&dagger;, **Yichen Zhu**&dagger;, Yunshi Lan, Chao Yang, Yu Qiao
+
+***The first study on jailbreaking in large multi-modal models.***
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/icra_rsft.png' alt="sym" width="300" height="150"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -66,7 +82,7 @@ Junjie Wen&dagger;, **Yichen Zhu**&dagger;, Minjie Zhu, Jinming Li, Zhiyuan Xu, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024, <span style="color:blue">Oral</span> </div><img src='images/aaai_gail.png' alt="sym" width="300" height="150"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024, <span style="color:red">Oral</span> </div><img src='images/aaai_gail.png' alt="sym" width="300" height="150"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
