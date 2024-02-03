@@ -25,7 +25,7 @@ I obtained my bachelor of science from the [University of Toronto](https://www.u
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 Two papers about MLLM + Robotics have been accepted in ICRA 2024
-- *2024.01*: We release a efficient multi-modal models called [LLaVA-Phi](https://github.com/zhuyiche/llava-phi), building upon Phi-2 and LLaVA.
+- *2024.01*: :fire: We release a efficient multi-modal models called [LLaVA-Phi](https://github.com/zhuyiche/llava-phi), building upon Phi-2 and LLaVA.
 - *2024.01*: Two papers accepted in AAAI 2024
 - *2023.12*: One paper accepted in ICASSP 2024
 - *2023.08*: One paper accepted in ECML/PKDD 2024
@@ -33,6 +33,17 @@ I obtained my bachelor of science from the [University of Toronto](https://www.u
 
 # 📝 Selected Publications 
 &dagger; Equal Contributions, &Dagger; Corresponding Author
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Jan 2024</div><img src='images/llava-phi.png' alt="sym" width="300" height="150"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LLaVA-Phi: Efficient Multi-Modal Assistant with Small Language Model, **Arxiv 2024**](https://arxiv.org/pdf/2401.02330.pdf)
+
+**Yichen Zhu**, Minjie Zhu, , Zhicai Ou, Xiaofeng Mou, Jian Tang
+
+***The very first efficient multi-modal large language model under 3B.***
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/icra_rsft.png' alt="sym" width="300" height="150"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -66,10 +77,10 @@ Wanying Wang&dagger;, **Yichen Zhu**&dagger;, Yirui Zhou, Chaomin Shen, Jian Tan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/500x300.png' alt="sym" width="300" height="150"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='aaai_early.png' alt="sym" width="300" height="150"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Early Pruning with Self-Distillation for Efficient Model Compression, **AAAI 2024**]
+[Early Pruning with Self-Distillation for Efficient Model Compression, **AAAI 2024**](https://arxiv.org/pdf/2402.00084.pdf)
 
 Chen Dong&dagger;, Ning Liu&dagger;, **Yichen Zhu**, Fachao Zhang, Dong Liu, Feifei Feng, Jian Tang
 
