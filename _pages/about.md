@@ -28,8 +28,8 @@ I obtained my bachelor of science from the [University of Toronto](https://www.u
 - *2024.02*: &nbsp;🎉🎉 One papers on MLLM + Robotics have been accepted in CVPR 2024
 - *2024.02*: &nbsp;🎉🎉 Two papers on MLLM + Robotics have been accepted in ICRA 2024
 - *2024.01*: :fire: We release a efficient multi-modal models called [LLaVA-Phi](https://github.com/zhuyiche/llava-phi), building upon Phi-2 and LLaVA.
-- *2024.01*: Two papers accepted in AAAI 2024, one paper is presented as Oral
-- *2023.12*: One paper accepted in ICASSP 2024 as Oral presentation
+- *2024.01*: Two papers accepted in AAAI 2024, one paper is presented as Oral (top 1.5%)
+- *2023.12*: One paper accepted in ICASSP 2024 as Oral presentation (top 3%)
 - *2023.08*: One paper accepted in ECML/PKDD 2024
 - *2023.06*: Glad to annouce that our paper [LogAnomaly](https://www.ijcai.org/proceedings/2019/0658.pdf) is now the 4th most cited paper in IJCAI2019
 
