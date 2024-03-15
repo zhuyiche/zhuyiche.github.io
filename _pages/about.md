@@ -31,7 +31,7 @@ I obtained my bachelor of science from the [University of Toronto](https://www.u
 - *2024.01*: Two papers accepted in AAAI 2024, one paper is presented as Oral
 - *2023.12*: One paper accepted in ICASSP 2024 as Oral presentation
 - *2023.08*: One paper accepted in ECML/PKDD 2024
-- *2023.06*: Glad to annouce that our paper [LogAnomaly](https://www.ijcai.org/proceedings/2019/0658.pdf) is now the 10th most cited paper in IJCAI2019
+- *2023.06*: Glad to annouce that our paper [LogAnomaly](https://www.ijcai.org/proceedings/2019/0658.pdf) is now the 4th most cited paper in IJCAI2019
 
 # 📝 Selected Publications 
 &dagger; Equal Contributions, &Dagger; Corresponding Author
