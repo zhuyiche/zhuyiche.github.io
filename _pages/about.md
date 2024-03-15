@@ -37,7 +37,17 @@ I obtained my bachelor of science from the [University of Toronto](https://www.u
 &dagger; Equal Contributions, &Dagger; Corresponding Author
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Jan 2024</div><img src='images/llava-phi.png' alt="sym" width="300" height="150"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/mipha.png' alt="sym" width="300" height="150"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Retrieval-Augmented Embodied Agents, **CVPR 2024**
+
+**Yichen Zhu**, Zhicai Ou, Xiaofeng Mou, Jian Tang
+
+***RAG + Robotics with cross-embodiment data.***
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Jan 2024</div><img src='images/mipha.png' alt="sym" width="300" height="150"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mipha: A Comprehensive Overhaul of Multimodal Assistant with Small Language Models, **Arxiv 2024**](https://arxiv.org/pdf/2403.06199.pdf)
