@@ -46,6 +46,10 @@ Retrieval-Augmented Embodied Agents, **CVPR 2024**
 
 ***RAG + Robotics with cross-embodiment data.***
 
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Jan 2024</div><img src='images/mipha.png' alt="sym" width="300" height="150"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,6 +59,9 @@ Retrieval-Augmented Embodied Agents, **CVPR 2024**
 Minjie Zhu&dagger;, **Yichen Zhu&dagger;**, Xin Liu, Ning Liu, et al.
 
 ***Analysis on how to make better multimodal small language models.***
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Jan 2024</div><img src='images/llava-phi.png' alt="sym" width="300" height="150"></div></div>
