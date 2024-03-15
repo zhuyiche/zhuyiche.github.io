@@ -37,7 +37,7 @@ I obtained my bachelor of science from the [University of Toronto](https://www.u
 &dagger; Equal Contributions, &Dagger; Corresponding Author
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/mipha.png' alt="sym" width="300" height="150"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/raea.png' alt="sym" width="300" height="150"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Retrieval-Augmented Embodied Agents, **CVPR 2024**
