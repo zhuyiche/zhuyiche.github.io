@@ -24,10 +24,12 @@ I obtained my bachelor of science from the [University of Toronto](https://www.u
 
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 Two papers about MLLM + Robotics have been accepted in ICRA 2024
+- *2024.03*: We release Mipha, a comprehensive overview of Multimodal Small Language Model. Our Mipha-3B outperforms LLaVA-13B on multiple benchmarks!
+- *2024.02*: &nbsp;🎉🎉 One papers about MLLM + Robotics have been accepted in CVPR 2024
+- *2024.02*: &nbsp;🎉🎉 Two papers on MLLM + Robotics have been accepted in ICRA 2024
 - *2024.01*: :fire: We release a efficient multi-modal models called [LLaVA-Phi](https://github.com/zhuyiche/llava-phi), building upon Phi-2 and LLaVA.
-- *2024.01*: Two papers accepted in AAAI 2024
-- *2023.12*: One paper accepted in ICASSP 2024
+- *2024.01*: Two papers accepted in AAAI 2024, one paper is presented as Oral
+- *2023.12*: One paper accepted in ICASSP 2024 as Oral presentation
 - *2023.08*: One paper accepted in ECML/PKDD 2024
 - *2023.06*: Glad to annouce that our paper [LogAnomaly](https://www.ijcai.org/proceedings/2019/0658.pdf) is now the 10th most cited paper in IJCAI2019
 
@@ -38,11 +40,21 @@ I obtained my bachelor of science from the [University of Toronto](https://www.u
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Jan 2024</div><img src='images/llava-phi.png' alt="sym" width="300" height="150"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Mipha: A Comprehensive Overhaul of Multimodal Assistant with Small Language Models, **Arxiv 2024**](https://arxiv.org/pdf/2403.06199.pdf)
+
+Minjie Zhu&dagger;, **Yichen Zhu&dagger;**, Xin Liu, Ning Liu, et al.
+
+***Analysis on how to make better multimodal small language models.***
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Jan 2024</div><img src='images/llava-phi.png' alt="sym" width="300" height="150"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [LLaVA-Phi: Efficient Multi-Modal Assistant with Small Language Model, **Arxiv 2024**](https://arxiv.org/pdf/2401.02330.pdf)
 
-**Yichen Zhu**, Minjie Zhu, , Zhicai Ou, Xiaofeng Mou, Jian Tang
+**Yichen Zhu**, Minjie Zhu, Zhicai Ou, Xiaofeng Mou, Jian Tang
 
-***The very first efficient multi-modal large language model under 3B.***
+***An early version of multi-modal small language model under 3B.***
 
 </div>
 </div>
@@ -86,7 +98,7 @@ Junjie Wen&dagger;, **Yichen Zhu**&dagger;, Minjie Zhu, Jinming Li, Zhiyuan Xu, 
 <div class='paper-box-text' markdown="1">
 
 
-[Exploring Gradient Explosion in Generative Adversarial Imitation Learning: A Probabilistic Perspective, **AAAI 2024**](https://arxiv.org/pdf/2312.11214)
+[Exploring Gradient Explosion in Generative Adversarial Imitation Learning: A Probabilistic Perspective, **AAAI 2024, Oral (top 1.5%)**](https://arxiv.org/pdf/2312.11214)
 
 Wanying Wang&dagger;, **Yichen Zhu**&dagger;, Yirui Zhou, Chaomin Shen, Jian Tang, Zhiyuan Xu, Yaxin Peng, Yangchun Zhang
 
@@ -106,7 +118,7 @@ Chen Dong&dagger;, Ning Liu&dagger;, **Yichen Zhu**, Fachao Zhang, Dong Liu, Fei
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='images/icassp.png' alt="sym" width="300" height="150"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[When Training-Free NAS meets Vision Transformer: A Neural Tangent Kernel Perspective, **ICASSP 2024**]
+[When Training-Free NAS meets Vision Transformer: A Neural Tangent Kernel Perspective, **ICASSP 2024, Oral (top 3%)**]
 
 Qiqi Zhou, **Yichen Zhu**&Dagger;
 
@@ -136,7 +148,7 @@ Qiqi Zhou, **Yichen Zhu**&Dagger;
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/tllm.png' alt="sym" width="300" height="150"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Teach Less, Learn More: On the Undistillable Classes in Knowledge Distillation, **NeurIPS 2023, Spotlight (top 2%)**](https://proceedings.neurips.cc/paper_files/paper/2022/file/cf5c369c1bc070361477008e3f5210ed-Paper-Conference.pdf)
+[Teach Less, Learn More: On the Undistillable Classes in Knowledge Distillation, **NeurIPS 2023, Spotlight (top 3%)**](https://proceedings.neurips.cc/paper_files/paper/2022/file/cf5c369c1bc070361477008e3f5210ed-Paper-Conference.pdf)
 
 **Yichen Zhu**, Ning Liu, Zhiyuan Xu, Xin Liu, Weibin Meng, Louis Wang, Zhicai Ou, Jian Tang
 
