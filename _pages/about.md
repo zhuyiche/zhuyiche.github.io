@@ -24,8 +24,8 @@ I obtained my bachelor of science from the [University of Toronto](https://www.u
 
 
 # 🔥 News
-- *2024.03*: We release Mipha, a comprehensive overview of Multimodal Small Language Model. Our Mipha-3B outperforms LLaVA-13B on multiple benchmarks!
-- *2024.02*: &nbsp;🎉🎉 One papers about MLLM + Robotics have been accepted in CVPR 2024
+- *2024.03*: We release Mipha, a comprehensive overview of Multimodal Small Language Model. Our Mipha-3B outperforms LLaVA-1.5-13B on multiple benchmarks!
+- *2024.02*: &nbsp;🎉🎉 One papers on MLLM + Robotics have been accepted in CVPR 2024
 - *2024.02*: &nbsp;🎉🎉 Two papers on MLLM + Robotics have been accepted in ICRA 2024
 - *2024.01*: :fire: We release a efficient multi-modal models called [LLaVA-Phi](https://github.com/zhuyiche/llava-phi), building upon Phi-2 and LLaVA.
 - *2024.01*: Two papers accepted in AAAI 2024, one paper is presented as Oral
