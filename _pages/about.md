@@ -40,7 +40,7 @@ I obtained my bachelor of science from the [University of Toronto](https://www.u
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/safety_survey.png' alt="sym" width="300" height="150"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Safety of Multimodal Large Language Models on Image and Text, **CVPR 2024**
+Safety of Multimodal Large Language Models on Image and Text, **IJCAI 2024 Survey Track**
 
 Xin Liu, **Yichen Zhu**, Yunshi Lan, Chao Yang, Yu Qiao
 
