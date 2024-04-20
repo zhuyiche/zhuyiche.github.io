@@ -24,6 +24,7 @@ I obtained my bachelor of science from the [University of Toronto](https://www.u
 
 
 # 🔥 News
+- *2024.04*: Our survey paper on Multi-modal safety is accepted at IJCAI Survey Track!
 - *2024.03*: We release Mipha, a comprehensive overview of Multimodal Small Language Model. Our Mipha-3B outperforms LLaVA-1.5-13B on multiple benchmarks!
 - *2024.02*: &nbsp;🎉🎉 One papers on MLLM + Robotics have been accepted in CVPR 2024
 - *2024.02*: &nbsp;🎉🎉 Two papers on MLLM + Robotics have been accepted in ICRA 2024
@@ -35,6 +36,17 @@ I obtained my bachelor of science from the [University of Toronto](https://www.u
 
 # 📝 Selected Publications 
 &dagger; Equal Contributions, &Dagger; Corresponding Author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/safety_survey.png' alt="sym" width="300" height="150"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Safety of Multimodal Large Language Models on Image and Text, **CVPR 2024**
+
+Xin Liu, **Yichen Zhu**, Yunshi Lan, Chao Yang, Yu Qiao
+
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/raea.png' alt="sym" width="300" height="150"></div></div>
